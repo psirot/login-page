@@ -4,6 +4,7 @@ import styles from './Main.styles'
 import { Text } from '@csssr/core-design'
 
 const OriginMain= props =>
+<Grid>
   <div className={props.className}>
  <Text type="regular" size="m">
     Lorem ipsum dolor sit amet, consectetur adipiscing elit.
