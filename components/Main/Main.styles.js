@@ -19,9 +19,8 @@ font-weight: 300;
 font-size: 16px;
 line-height: 24px;
 color: #4A4A4A;
-.field{}
-.email{}
-.pass{}
+.email{margin-top:32px;}
+.pass{margin-bottom:19px;}
 .btn{}
 
 }
